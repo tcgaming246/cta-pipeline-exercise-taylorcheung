@@ -1,0 +1,136 @@
+/* here is where all of the styling for your skills page will live */
+
+.skills-container {
+    /* add your styling for the container here */
+    padding: 15px 15px;
+    border: 2px solid #0b0a0a;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    background-color: rgb(251, 251, 251);
+    color: black;
+
+}
+#skills{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    justify-content: center;
+    padding:20px;
+    background-color: white;
+}
+.skills-header{
+    text-align: center;
+    color: black;
+    background-color: white;
+}
+.skill-card {
+  width: 250px;       /* fixed width */
+  min-height: 180px; 
+  position: relative; /* <-- This makes positioning inside the card possible */
+  padding: 15px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  margin: 15px 0;
+  background-color: #f9f9f9;
+}
+
+
+/* Add Skill Form Styling */
+.skill-form {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+    border: 2px solid #000;
+    padding: 15px;
+    border-radius: 8px;
+    margin: 20px auto;
+    max-width: 90%;
+    background-color: #f4f4f4;
+    justify-content: center;
+}
+
+.skill-form input,
+.skill-form select,
+.skill-form textarea {
+    padding: 8px;
+    border: 1px solid #000;
+    border-radius: 4px;
+    font-size: 14px;
+    min-width: 150px;
+}
+
+.skill-form textarea {
+    resize: vertical;
+    min-height: 36px;
+}
+
+.skill-form button.add-btn {
+    padding: 8px 16px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.skill-form button.add-btn:hover {
+    background-color: #45a049;
+}
+
+
+
+.skill-card:hover{
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+    transform: translateY(-4px);
+}
+
+.error-message {
+  color: red;
+  font-weight: bold;
+  margin-bottom: 10px;
+  width: 100%;
+  text-align: center;
+}
+
+.delete-btn {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  background: transparent;
+  border: none;
+  font-size: 1.25rem;
+  cursor: pointer;
+  color: #999;
+}
+
+.delete-btn:hover {
+  color: #f00;
+}
+
+.snackbar {
+  position: fixed;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: #323232;
+  color: #fff;
+  padding: 12px 24px;
+  border-radius: 4px;
+  font-size: 16px;
+  opacity: 0.9;
+  z-index: 999;
+  animation: fadein 0.3s, fadeout 0.3s 2.7s;
+}
+
+@keyframes fadein {
+  from { opacity: 0; bottom: 0; }
+  to { opacity: 0.9; bottom: 20px; }
+}
+
+@keyframes fadeout {
+  from { opacity: 0.9; bottom: 20px; }
+  to { opacity: 0; bottom: 0; }
+}
+
+
