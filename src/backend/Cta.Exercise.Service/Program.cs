@@ -28,7 +28,7 @@ builder.Services.AddCors(options =>
     options.AddDefaultPolicy(
         policy =>
         {
-            policy.WithOrigins("http://localhost:5173")
+            policy.WithOrigins("http://localhost:5173", "https://yellow-tree-0d394590f.2.azurestaticapps.net")
                   .AllowAnyHeader()
                   .AllowAnyMethod();
         });
