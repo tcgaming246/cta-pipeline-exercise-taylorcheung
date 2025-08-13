@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\cta-csharp-exercise-tc\\src\\Cta.Exercise.Core\\Cta.Exercise.Core.csproj": {}
+    "C:\\Projects\\cta-pipeline-exercise-taylorcheung\\src\\backend\\Cta.Exercise.Core\\Cta.Exercise.Core.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\cta-csharp-exercise-tc\\src\\Cta.Exercise.Core\\Cta.Exercise.Core.csproj": {
+    "C:\\Projects\\cta-pipeline-exercise-taylorcheung\\src\\backend\\Cta.Exercise.Core\\Cta.Exercise.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\cta-csharp-exercise-tc\\src\\Cta.Exercise.Core\\Cta.Exercise.Core.csproj",
+        "projectUniqueName": "C:\\Projects\\cta-pipeline-exercise-taylorcheung\\src\\backend\\Cta.Exercise.Core\\Cta.Exercise.Core.csproj",
         "projectName": "Cta.Exercise.Core",
-        "projectPath": "C:\\Projects\\cta-csharp-exercise-tc\\src\\Cta.Exercise.Core\\Cta.Exercise.Core.csproj",
+        "projectPath": "C:\\Projects\\cta-pipeline-exercise-taylorcheung\\src\\backend\\Cta.Exercise.Core\\Cta.Exercise.Core.csproj",
         "packagesPath": "C:\\Users\\287539\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\cta-csharp-exercise-tc\\src\\Cta.Exercise.Core\\obj\\",
+        "outputPath": "C:\\Projects\\cta-pipeline-exercise-taylorcheung\\src\\backend\\Cta.Exercise.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

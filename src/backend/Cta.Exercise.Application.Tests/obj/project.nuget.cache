@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rpkzFJma+mE=",
+  "dgSpecHash": "x7k4B2TL0/c=",
   "success": true,
-  "projectFilePath": "C:\\Projects\\cta-csharp-exercise-tc\\src\\Cta.Exercise.Application.Tests\\Cta.Exercise.Application.Tests.csproj",
+  "projectFilePath": "C:\\Projects\\cta-pipeline-exercise-taylorcheung\\src\\backend\\Cta.Exercise.Application.Tests\\Cta.Exercise.Application.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\287539\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\287539\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zNrPfpg4iHw=",
+  "dgSpecHash": "9dqMYjsaVlk=",
   "success": true,
-  "projectFilePath": "C:\\Projects\\cta-csharp-exercise-tc\\src\\Cta.Exercise.Service\\Cta.Exercise.Service.csproj",
+  "projectFilePath": "C:\\Projects\\cta-pipeline-exercise-taylorcheung\\src\\backend\\Cta.Exercise.Service\\Cta.Exercise.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\287539\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\287539\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",

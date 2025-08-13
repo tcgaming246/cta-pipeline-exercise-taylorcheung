@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4QYADyeOo7I=",
+  "dgSpecHash": "EJH1YEi3v5c=",
   "success": true,
-  "projectFilePath": "C:\\Projects\\cta-csharp-exercise-tc\\src\\Cta.Exercise.Core\\Cta.Exercise.Core.csproj",
+  "projectFilePath": "C:\\Projects\\cta-pipeline-exercise-taylorcheung\\src\\backend\\Cta.Exercise.Core\\Cta.Exercise.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
