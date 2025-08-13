@@ -1,0 +1,16 @@
+C:\Projects\cta-csharp-exercise-tc\src\Cta.Exercise.Application\bin\Debug\net8.0\Cta.Exercise.Application.deps.json
+C:\Projects\cta-csharp-exercise-tc\src\Cta.Exercise.Application\bin\Debug\net8.0\Cta.Exercise.Application.dll
+C:\Projects\cta-csharp-exercise-tc\src\Cta.Exercise.Application\bin\Debug\net8.0\Cta.Exercise.Application.pdb
+C:\Projects\cta-csharp-exercise-tc\src\Cta.Exercise.Application\bin\Debug\net8.0\Cta.Exercise.Core.dll
+C:\Projects\cta-csharp-exercise-tc\src\Cta.Exercise.Application\bin\Debug\net8.0\Cta.Exercise.Core.pdb
+C:\Projects\cta-csharp-exercise-tc\src\Cta.Exercise.Application\obj\Debug\net8.0\Cta.Exercise.Application.csproj.AssemblyReference.cache
+C:\Projects\cta-csharp-exercise-tc\src\Cta.Exercise.Application\obj\Debug\net8.0\Cta.Exercise.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\cta-csharp-exercise-tc\src\Cta.Exercise.Application\obj\Debug\net8.0\Cta.Exercise.Application.AssemblyInfoInputs.cache
+C:\Projects\cta-csharp-exercise-tc\src\Cta.Exercise.Application\obj\Debug\net8.0\Cta.Exercise.Application.AssemblyInfo.cs
+C:\Projects\cta-csharp-exercise-tc\src\Cta.Exercise.Application\obj\Debug\net8.0\Cta.Exercise.Application.csproj.CoreCompileInputs.cache
+C:\Projects\cta-csharp-exercise-tc\src\Cta.Exercise.Application\obj\Debug\net8.0\Cta.Exercise.Application.sourcelink.json
+C:\Projects\cta-csharp-exercise-tc\src\Cta.Exercise.Application\obj\Debug\net8.0\Cta.Exer.E33CE6BA.Up2Date
+C:\Projects\cta-csharp-exercise-tc\src\Cta.Exercise.Application\obj\Debug\net8.0\Cta.Exercise.Application.dll
+C:\Projects\cta-csharp-exercise-tc\src\Cta.Exercise.Application\obj\Debug\net8.0\refint\Cta.Exercise.Application.dll
+C:\Projects\cta-csharp-exercise-tc\src\Cta.Exercise.Application\obj\Debug\net8.0\Cta.Exercise.Application.pdb
+C:\Projects\cta-csharp-exercise-tc\src\Cta.Exercise.Application\obj\Debug\net8.0\ref\Cta.Exercise.Application.dll

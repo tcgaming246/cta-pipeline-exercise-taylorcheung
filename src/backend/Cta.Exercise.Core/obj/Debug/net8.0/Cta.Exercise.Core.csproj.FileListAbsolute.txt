@@ -1,0 +1,12 @@
+C:\Projects\cta-csharp-exercise-tc\src\Cta.Exercise.Core\bin\Debug\net8.0\Cta.Exercise.Core.deps.json
+C:\Projects\cta-csharp-exercise-tc\src\Cta.Exercise.Core\bin\Debug\net8.0\Cta.Exercise.Core.dll
+C:\Projects\cta-csharp-exercise-tc\src\Cta.Exercise.Core\bin\Debug\net8.0\Cta.Exercise.Core.pdb
+C:\Projects\cta-csharp-exercise-tc\src\Cta.Exercise.Core\obj\Debug\net8.0\Cta.Exercise.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\cta-csharp-exercise-tc\src\Cta.Exercise.Core\obj\Debug\net8.0\Cta.Exercise.Core.AssemblyInfoInputs.cache
+C:\Projects\cta-csharp-exercise-tc\src\Cta.Exercise.Core\obj\Debug\net8.0\Cta.Exercise.Core.AssemblyInfo.cs
+C:\Projects\cta-csharp-exercise-tc\src\Cta.Exercise.Core\obj\Debug\net8.0\Cta.Exercise.Core.csproj.CoreCompileInputs.cache
+C:\Projects\cta-csharp-exercise-tc\src\Cta.Exercise.Core\obj\Debug\net8.0\Cta.Exercise.Core.sourcelink.json
+C:\Projects\cta-csharp-exercise-tc\src\Cta.Exercise.Core\obj\Debug\net8.0\Cta.Exercise.Core.dll
+C:\Projects\cta-csharp-exercise-tc\src\Cta.Exercise.Core\obj\Debug\net8.0\refint\Cta.Exercise.Core.dll
+C:\Projects\cta-csharp-exercise-tc\src\Cta.Exercise.Core\obj\Debug\net8.0\Cta.Exercise.Core.pdb
+C:\Projects\cta-csharp-exercise-tc\src\Cta.Exercise.Core\obj\Debug\net8.0\ref\Cta.Exercise.Core.dll
